@@ -21,6 +21,28 @@
                     }
                 }
             ]
+        },
+        {
+            "outputFile": "F:\\GitCheckoutProject\\CustomView\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "F:\\GitCheckoutProject\\CustomView\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3,2",
+                        "startColumns": "1,1",
+                        "startOffsets": "113,52",
+                        "endColumns": "64,60",
+                        "endOffsets": "176,111"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,123",
+                        "endColumns": "67,63",
+                        "endOffsets": "118,182"
+                    }
+                }
+            ]
         }
     ]
 }

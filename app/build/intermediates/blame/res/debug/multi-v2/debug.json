@@ -23,6 +23,50 @@
             ]
         },
         {
+            "outputFile": "F:\\GitCheckoutProject\\CustomView\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "F:\\GitCheckoutProject\\CustomView\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3,2",
+                        "startColumns": "1,1",
+                        "startOffsets": "113,52",
+                        "endColumns": "64,60",
+                        "endOffsets": "176,111"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,123",
+                        "endColumns": "67,63",
+                        "endOffsets": "118,182"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "F:\\GitCheckoutProject\\CustomView\\app\\build\\intermediates\\res\\merged\\debug\\values-zh-rCN_values-zh-rCN.arsc.flat",
+            "map": [
+                {
+                    "source": "F:\\GitCheckoutProject\\CustomView\\app\\src\\main\\res\\values-zh-rCn\\strings.xml",
+                    "from": {
+                        "startLines": "3,2",
+                        "startColumns": "1,1",
+                        "startOffsets": "113,52",
+                        "endColumns": "41,60",
+                        "endOffsets": "153,111"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,100",
+                        "endColumns": "44,63",
+                        "endOffsets": "95,159"
+                    }
+                }
+            ]
+        },
+        {
             "outputFile": "F:\\GitHub\\Android\\PracticeProjects\\CustomView\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
             "map": [
                 {

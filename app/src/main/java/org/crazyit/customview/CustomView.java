@@ -46,6 +46,7 @@ public class CustomView extends Activity
 				//通知draw组件重绘
 				draw.invalidate();
 				//返回true表明处理方法已经处理该事件
+				//test git
 				return true;
 			}		
 		});
